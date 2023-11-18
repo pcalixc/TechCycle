@@ -1,5 +1,4 @@
 import styles from "../style";
-import { discount, robot } from "../assets";
 import Button from "./Button";
 import Animation from "./Animation";
 
